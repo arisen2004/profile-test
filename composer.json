@@ -75,7 +75,7 @@
         "drupal/views_bulk_operations": "^4.2",
         "drupal/views_infinite_scroll": "^2.0",
         "drupal/bootstrap_barrio": "^5.5",
-        "drush/drush": "^10.6",
+        "drush/drush": "^11.4",
         "npm-asset/jquery-ui-touch-punch": "^0.2.3",
         "npm-asset/select2": "^4.0"
     },
