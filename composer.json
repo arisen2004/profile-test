@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "bower-asset/swagger-ui": "^3.52",
+        "bower-asset/swagger-ui": "^4.15",
         "drupal/admin_toolbar": "^3.4",
         "drupal/autologout": "^1.4",
         "drupal/better_exposed_filters": "^6.0",
