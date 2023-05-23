@@ -67,7 +67,6 @@
         "drupal/swagger_ui_formatter": "^4.0",
         "drupal/tamper": "^1.0@alpha",
         "drupal/token": "^1.11",
-        "drupal/user_menu_avatar": "^6.0@RC",
         "drupal/video_embed_field": "^2.5",
         "drupal/view_custom_table": "^2.0",
         "drupal/views_block_filter_block": "^2.0",
